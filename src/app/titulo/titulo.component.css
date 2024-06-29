@@ -1,0 +1,13 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    background: rgb(72, 72, 188);
+}
+.titulo-contenido{
+    text-align: center;
+}
+.titulo-contenido h1{
+    font-size: 40px;
+    color: white;
+    font-weight: 300px;
+}
